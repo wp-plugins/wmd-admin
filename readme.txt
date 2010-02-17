@@ -2,7 +2,7 @@
 Contributors: thomaspelletier
 Tags: admin, markdown, editor, wmd
 Requires at least: 2.7
-Tested up to: 2.9.1
+Tested up to: 2.9.2
 Stable tag: 1.0
 
 WMD_Admin is a Worpdress plugin which makes WMD the default posts editor in the admin interface.
